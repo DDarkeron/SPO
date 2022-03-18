@@ -1,1 +1,130 @@
-<mxfile host="app.diagrams.net" modified="2022-03-18T10:12:36.969Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36" version="16.5.2" etag="ed_Jo6f4i5kkgXqTxEUT" type="github"><diagram id="ok455v9CLPZmraK8RxIC">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-03-18T10:45:28.977Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36" etag="BsgD8KjKTUyqbmgT0f8_" version="16.5.2" type="github">
+  <diagram id="ok455v9CLPZmraK8RxIC" name="Page-1">
+    <mxGraphModel dx="798" dy="752" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="jv3ZCaWMq53r49TPk0uM-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jv3ZCaWMq53r49TPk0uM-1" target="jv3ZCaWMq53r49TPk0uM-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jv3ZCaWMq53r49TPk0uM-10" value="Персональная информация" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="jv3ZCaWMq53r49TPk0uM-9">
+          <mxGeometry x="0.1083" y="2" relative="1" as="geometry">
+            <mxPoint x="-21" y="4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jv3ZCaWMq53r49TPk0uM-1" value="Клиент" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="240" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jv3ZCaWMq53r49TPk0uM-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.558;entryY=0.017;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="jv3ZCaWMq53r49TPk0uM-2" target="jv3ZCaWMq53r49TPk0uM-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jv3ZCaWMq53r49TPk0uM-6" value="Стоимость" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="jv3ZCaWMq53r49TPk0uM-5">
+          <mxGeometry x="-0.2692" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jv3ZCaWMq53r49TPk0uM-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.308;entryY=0.05;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="jv3ZCaWMq53r49TPk0uM-2" target="jv3ZCaWMq53r49TPk0uM-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jv3ZCaWMq53r49TPk0uM-8" value="Тип страхования" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="jv3ZCaWMq53r49TPk0uM-7">
+          <mxGeometry x="-0.2709" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jv3ZCaWMq53r49TPk0uM-2" value="Страховочный документ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="120" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jv3ZCaWMq53r49TPk0uM-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="jv3ZCaWMq53r49TPk0uM-3" target="jv3ZCaWMq53r49TPk0uM-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jv3ZCaWMq53r49TPk0uM-12" value="Технические данные" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="jv3ZCaWMq53r49TPk0uM-11">
+          <mxGeometry x="-0.3467" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jv3ZCaWMq53r49TPk0uM-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="jv3ZCaWMq53r49TPk0uM-3" target="jv3ZCaWMq53r49TPk0uM-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jv3ZCaWMq53r49TPk0uM-14" value="Рыночная стоимость" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="jv3ZCaWMq53r49TPk0uM-13">
+          <mxGeometry x="-0.5176" y="2" relative="1" as="geometry">
+            <mxPoint x="18" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jv3ZCaWMq53r49TPk0uM-3" value="Страхуемый авто" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="360" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jv3ZCaWMq53r49TPk0uM-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="jv3ZCaWMq53r49TPk0uM-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="730" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jv3ZCaWMq53r49TPk0uM-26" value="Готовый докуменнт" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="jv3ZCaWMq53r49TPk0uM-25">
+          <mxGeometry x="0.24" relative="1" as="geometry">
+            <mxPoint x="-23" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jv3ZCaWMq53r49TPk0uM-4" value="Страхование" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="460" y="240" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="jv3ZCaWMq53r49TPk0uM-19" value="Данные клиента" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jv3ZCaWMq53r49TPk0uM-17" target="jv3ZCaWMq53r49TPk0uM-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jv3ZCaWMq53r49TPk0uM-17" value="Клиент" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="480" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jv3ZCaWMq53r49TPk0uM-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="jv3ZCaWMq53r49TPk0uM-18" target="jv3ZCaWMq53r49TPk0uM-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jv3ZCaWMq53r49TPk0uM-18" value="DB.Клиент" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jv3ZCaWMq53r49TPk0uM-22" value="Данные авто" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jv3ZCaWMq53r49TPk0uM-20" target="jv3ZCaWMq53r49TPk0uM-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jv3ZCaWMq53r49TPk0uM-20" value="Страхуемый авто" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="480" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jv3ZCaWMq53r49TPk0uM-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jv3ZCaWMq53r49TPk0uM-21" target="jv3ZCaWMq53r49TPk0uM-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jv3ZCaWMq53r49TPk0uM-21" value="DB.Автомобиль" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jv3ZCaWMq53r49TPk0uM-27" value="Данные страховки" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jv3ZCaWMq53r49TPk0uM-23" target="jv3ZCaWMq53r49TPk0uM-24">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="620" y="580" />
+              <mxPoint x="620" y="580" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jv3ZCaWMq53r49TPk0uM-23" value="Страховочный документ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="480" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jv3ZCaWMq53r49TPk0uM-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="jv3ZCaWMq53r49TPk0uM-24" target="jv3ZCaWMq53r49TPk0uM-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jv3ZCaWMq53r49TPk0uM-24" value="DB.Страховка" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jv3ZCaWMq53r49TPk0uM-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jv3ZCaWMq53r49TPk0uM-28" target="jv3ZCaWMq53r49TPk0uM-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jv3ZCaWMq53r49TPk0uM-28" value="Оценка страховочных рисков" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="320" y="720" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="jv3ZCaWMq53r49TPk0uM-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="jv3ZCaWMq53r49TPk0uM-32" target="jv3ZCaWMq53r49TPk0uM-36">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="640" y="940" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jv3ZCaWMq53r49TPk0uM-32" value="Анализ предыдущего опыта страхования" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="320" y="880" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="jv3ZCaWMq53r49TPk0uM-36" value="Готовый документ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="910" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
